@@ -1,17 +1,19 @@
-=== WooCommerce Random Sorting ===
+=== Random Product Sorting for WooCommerce ===
 Contributors: hooooool
 Tags: woocommerce, sorting, random sorting, product sorting
-Requires at least: 5.2
+Requires at least: 5.6
 Tested up to: 6.0
 Requires PHP: 7.2
 Stable tag: 1.0.0
+WC requires at least: 3.0.0
+WC tested up to: 6.8
 License: GPLv2 or later License
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Plugin for sorting your WooCommerce Products in random order. 
 
 == Description ==
-WooCommerce Random Sorting was created to add a random sort order of products to WooCommerce products. The random variety has a short-term service life of one hour. A new random sort is generated every hour. Pagination works properly, which means that each WooCommerce product will be displayed once and no more than once.
+Random Product Sorting for WooCommerce was created to add a random sort order of products to WooCommerce products. The random variety has a short-term service life of one hour. A new random sort is generated every hour. Pagination works properly, which means that each WooCommerce product will be displayed once and no more than once.
 
 == Installation ==
 1. Upload the plugin files to the \'/wp-content/plugins/woo-random-product-sorting\' directory or install the plugin directly through the WordPress plugins screen.
