@@ -3,16 +3,16 @@
  * Plugin Name:       Random Product Sorting for WooCommerce
  * Description:       Add a random product sorting method to WooCommerce.
  * Version:           1.0.0
- * Requires at least: 5.6
- * Requires PHP:      7.2
+ * Requires at least: 4.4
+ * Requires PHP:      5.6
  * Author:            hooooool
  * Author URI:        https://t.me/hooooool
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       rpsfw-product-sorting
  * Domain Path:       /languages
- * WC requires at least: 3.0.0
- * WC tested up to: 6.8
+ * WC requires at least: 3.5.0
+ * WC tested up to: 5.2.2
  */
 ?>
 <?php
