@@ -64,7 +64,7 @@
         function rpsfw_woocommerce_admin_notice() { 
             ?>
                 <div class="notice error is-dismissible">
-                    <p><?php esc_html__( 'WooCommerce plugin must be installed on your site to use the WooCommerce Random Sorting feature.', 'rpsfw-product-sorting' ); ?></p>
+                    <p><?php echo esc_html__( 'WooCommerce plugin must be installed on your site to use the WooCommerce Random Sorting feature.', 'rpsfw-product-sorting' ); ?></p>
                 </div>
             <?php 
         }
